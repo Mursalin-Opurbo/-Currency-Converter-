@@ -22,7 +22,7 @@ rates = {
     "THB": 36.5
 }
 
-amount = float(input("Enter amount in USD: "))
+amount = float(input("Enter amount : "))
 print("Available currencies: USD, EUR, GBP, INR, JPY, AUD, CAD, CHF, CNY, SEK, NZD, MXN, BRL, ZAR, RUB, KRW, SGD, HKD, MYR, THB")
 
 currency = input("Convert to: ").upper()
