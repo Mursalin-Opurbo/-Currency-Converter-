@@ -1,2 +1,2 @@
 # -Currency-Converter-
-Convert USD to EUR, GBP, INR, etc., using fixed rates.
+Convert USD to EUR, GBP etc., using fixed rates.
